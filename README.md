@@ -1,7 +1,7 @@
 # Telco Customer Churn Analysis
 
 
-Pandas analysis of 7,043 telecom customers to identify key drivers behind customer churn - Contract type, tenure, and pricing — with visualizations to support retention strategy.
+Pandas analysis of 7,043 telecom customers to identify key drivers behind customer churn - Contract type, tenure, and pricing - with visualizations to support retention strategy.
 
 
 ## Pipeline
